@@ -2,9 +2,9 @@
   "name": "nodeserver",
   "version": "1.0.0",
   "description": "this is node server for chat bot",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "nodemon index.js"
+    "test": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
